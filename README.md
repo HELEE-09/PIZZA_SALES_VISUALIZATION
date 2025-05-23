@@ -22,3 +22,5 @@ This project presents a comprehensive Power BI dashboard that analyzes sales, pr
 - **Excel** – Data cleaning & formatting
 - **DAX** – For creating custom measures and KPIs
 - **Pivot Tables & Relationships** – Used to model complex data
+
+- ![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=flat-square&logo=powerbi)
